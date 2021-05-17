@@ -1,14 +1,14 @@
 {
-  "name": "OKTmoon Hosted List",
+  "name": "maticmoon Hosted List",
   "timestamp": "2021-05-14T16:57:10.982Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 26
+    "patch": 27
   },
   "tags": {},
   "keywords": [
-    "OKTmoon",
+    "maticmoon",
     "default"
   ],
   "tokens": [
