@@ -1,14 +1,14 @@
 {
-  "name": "maticmoon Hosted List",
+  "name": "OKTmoon Hosted List",
   "timestamp": "2021-05-14T16:57:10.982Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 27
+    "patch": 26
   },
   "tags": {},
   "keywords": [
-    "maticmoon",
+    "OKTmoon",
     "default"
   ],
   "tokens": [
@@ -18,7 +18,15 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://static.bafang.com/cdn/assets/imgs/MjAxOTk/6467C675AC67183C189CF0B4E0AE023F.png"
+      "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
+    },
+    {
+      "chainId": 137,
+      "address":"0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
     }
   ]
 }
