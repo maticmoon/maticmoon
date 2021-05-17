@@ -1,24 +1,40 @@
 {
-    "name": "MATICmoon Hosted List",
-    "timestamp": "2021-05-14T16:57:10.982Z",
-    "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 28
+  "name": "OKTmoon Hosted List",
+  "timestamp": "2021-05-14T16:57:10.982Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 26
+  },
+  "tags": {},
+  "keywords": [
+    "OKTmoon",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
-    "tags": {},
-    "keywords": [
-      "MATICmoon",
-      "default"
-    ],
-    "tokens":  [
-      {
-        "name": "decentral.games",
-        "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
-        "symbol": "$DG",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"
-      }
-    ]
-  }
+    {
+      "name": "PolyDoge",
+      "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+      "symbol": "PolyDoge",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
+    },
+    {
+      "chainId": 137,
+      "address":"0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}
