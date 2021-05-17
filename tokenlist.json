@@ -18,7 +18,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Tether-USDT-icon.png"
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/48/Tether-USDT-icon.png"
     },
     {
       "chainId": 137,
@@ -26,7 +26,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Ethereum-ETH-icon.png"
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/48/Ethereum-ETH-icon.png"
     },
     {
       "name": "PolyDoge",
@@ -35,6 +35,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/48/Bitcoin-BTC-icon.png"
     }
   ]
 }
