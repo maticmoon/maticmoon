@@ -18,7 +18,7 @@
       "name": "MATICMOON",
       "symbol": "MATICMOON",
       "decimals": 9,
-      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/48/Tether-USDT-icon.png"
+      "logoURI": "https://raw.githubusercontent.com/maticmoon/maticmoon/main/favicon.png"
     },
     {
       "chainId": 137,
