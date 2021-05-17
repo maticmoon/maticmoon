@@ -26,7 +26,15 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Tether-USDT-icon.png"
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Ethereum-ETH-icon.png"
+    },
+    {
+      "name": "PolyDoge",
+      "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+      "symbol": "PolyDoge",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
     }
   ]
 }
