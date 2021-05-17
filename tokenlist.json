@@ -18,7 +18,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Tether-USDT-icon.png"
     },
     {
       "chainId": 137,
@@ -26,7 +26,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/128/Ethereum-ETH-icon.png"
     }
   ]
 }
