@@ -14,6 +14,14 @@
   "tokens": [
     {
       "chainId": 137,
+      "address":"0xcA32d52c2b346bcceEb059c7840B5967706a50cf",
+      "name": "MATICMOON",
+      "symbol": "MATICMOON",
+      "decimals": 9,
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/48/Tether-USDT-icon.png"
+    },
+    {
+      "chainId": 137,
       "address":"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "name": "USDT",
       "symbol": "USDT",
